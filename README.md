@@ -17,9 +17,6 @@ Passionate about building scalable web applications using Python, Django, and mo
 - You can contact me at [meetajaydevk@gmail.com](mailto:ajaydev@example.com)
 - I'm open to collaborating on Full-Stack Web Projects and Open Source Contributions.
 
-## Connect with me:
-
-<a href="https://www.linkedin.com/"><img align="left" src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/LinkedIn.svg" alt="Ajaydev | LinkedIn" width="40" height="40"/></a>
 </br>
 
 ## I'm currently working on
