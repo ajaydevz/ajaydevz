@@ -17,8 +17,6 @@ Passionate about building scalable web applications using Python, Django, and mo
 - You can contact me at [meetajaydevk@gmail.com](mailto:ajaydev@example.com)
 - I'm open to collaborating on Full-Stack Web Projects and Open Source Contributions.
 
-</br>
-
 ## I'm currently working on
 
 - Freelance projects involving full-stack development 
