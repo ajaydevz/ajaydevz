@@ -1,38 +1,52 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Welcome! </h1>
+<p align="center">
+  <a href="https://www/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ajaydevz/ajaydevz/main/images/banner123.png" alt="ajaydevz banner"></a>
+</p>
 
-<br>
+<h3 align="center" style="font-family:'Poppins', sans-serif; color:#4A90E2;">
+Hi there, I'm <a href="#" target="_blank" rel="noreferrer" style="color:#4A90E2; font-family:'Poppins', sans-serif;">Ajaydev K</a>
+</h3>
 
-Hi, I'm Ajaydev, a Passionate and self-driven Full-Stack Developer with over a year of experience building scalable applications using Python, Django, and React. Skilled in developing robust backend systems and intuitive frontend interfaces, always eager to learn and innovate
-<br>
+<h2 align="center" style="font-family:'Poppins', sans-serif; color:#333;">
+I'm a Python Full-Stack Developer
+</h2>
 
-<img align="right" width="450px" alt="GIF" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
+<p align="center" style="font-family:'Poppins', sans-serif; font-size:16px;">
+Passionate about building scalable web applications using Python, Django, and modern frontend technologies like React and Tailwind CSS. Solving real-world problems through clean, efficient code and continuous learning. Let's build something impactful together! 🚀
+</p>
 
- - 📫 How to reach me: [meetajaydevk@gmail.com](mailto:meetajaydevk@gmail.com)
- - 🔗 My Website: Coming Soon...
+- You can contact me at [meetajaydevk@gmail.com](mailto:ajaydev@example.com)
+- I'm open to collaborating on Full-Stack Web Projects and Open Source Contributions.
+
+## Connect with me:
+
+<a href="https://www.linkedin.com/"><img align="left" src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/LinkedIn.svg" alt="Ajaydev | LinkedIn" width="40" height="40"/></a>
+</br>
+
+## I'm currently working on
+
+- Freelance projects involving full-stack development 
+- Real-time AI Chatbot using FastAPI & LLaMA 3  
  
-  <br>
-<h3>Profile Views</h3>
- <p align="left"> <img src="https://profile-counter.glitch.me/ajaydevz/count.svg" alt="dev" /> </p>
- 
- </br>
+## I'm currently learning
 
-**Languages and Tools::**
-<br>
+- Next.js   
+- Kubernetes and Docker  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<br />
-<br />
-<br />
-
-<p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=ajaydevz'></p>
-
+## Technical Skills
+<div style="font-family:'Poppins', sans-serif; font-size:14px;">
+  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/React-Dark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Django.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/NextJS-Dark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/HTML.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/CSS.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/AWS-Dark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Dark.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Redux.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Firebase-Dark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+</div>
