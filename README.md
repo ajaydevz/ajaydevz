@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ajaydevz/ajaydevz/main/images/banner123.png" alt="ajaydevz banner"></a>
+  <a href="https://www/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ajaydevz/ajaydevz/main/images/banner124.png" alt="ajaydevz banner"></a>
 </p>
 
 <h3 align="center" style="font-family:'Poppins', sans-serif; color:#4A90E2;">
