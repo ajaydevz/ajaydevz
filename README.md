@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://www/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ajaydevz/ajaydevz/main/images/banner124.png" alt="ajaydevz banner"></a>
 </p>
 
@@ -44,4 +44,4 @@ Passionate about building scalable web applications using Python, Django, and mo
   <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Redux.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Firebase-Dark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-</div>
+</div> -->
